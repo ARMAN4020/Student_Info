@@ -20,6 +20,6 @@ EXAMPLE-
       
       "Branch":      "Computer",
       
-      "Fav_Subject": "Maths",
+      "Fav_Subject": "English ",
       
-      "Hobby"    : "Football"
+      "Hobby"    : "cricket "
